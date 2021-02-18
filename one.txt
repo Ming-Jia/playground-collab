@@ -2,3 +2,5 @@ Git Level
 --  REPOSITORY (REPO) --
 --  STAGING           --
 --  WORKING DIRECTORY --
+
+this is a new commit
